@@ -1,1 +1,1 @@
-# TabLibrary: a testing app to show listing and tabs with Ionicwith Ionic
+# TabLibrary: a testing app to show listing and tabs with Ionic

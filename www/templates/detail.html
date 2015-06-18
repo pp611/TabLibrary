@@ -1,0 +1,47 @@
+<ion-view>
+    <ion-nav-title>
+        {{book.Title}}
+    </ion-nav-title>
+    <ion-content class="padding">
+        <div class="list card">
+
+            <div class="item item-avatar">
+                <img ng-src="images/{{author.avatar}}">
+                <h2>{{author.name}}</h2>
+                <p>{{author.bookCount}} Books</p>
+            </div>
+
+            <div class="item item-body">
+                <div class="row">
+                    <div class="col col-80 col-offset-10">
+                        <img ng-src="images/{{book.Cover}}" style="width:100%">
+                        <!-- <img id="bookcover" ng-src="images/{{book.Cover}}" style="width:100%">  -->
+                    </div>
+                </div>
+                <p>
+                    {{book.Desc}}
+                </p>
+                <p>
+                    <a href="#" class="subdued">1 Like</a>
+                    <a href="#" class="subdued">5 Comments</a>
+                </p>
+            </div>
+
+            <div class="item tabs tabs-secondary tabs-icon-left">
+                <a class="tab-item" href="#">
+                    <i class="icon ion-thumbsup"></i>
+                    Like
+                </a>
+                <a class="tab-item" href="#">
+                    <i class="icon ion-chatbox"></i>
+                    Comment
+                </a>
+                <a class="tab-item" href="#">
+                    <i class="icon ion-share"></i>
+                    Share
+                </a>
+            </div>
+
+        </div>
+    </ion-content>
+</ion-view>

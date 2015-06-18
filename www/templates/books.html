@@ -1,0 +1,32 @@
+<ion-view>
+    <ion-nav-title>
+        <div ng-if="all_books">
+            All Books
+        </div>
+        <div ng-if="author_books">
+            Books
+        </div>
+    </ion-nav-title>
+    <ion-content>
+        <ion-list>
+            <div ng-if="all_books">
+                <ion-item class="item-remove-animate item-thumbnail-left item-icon-right"
+                          ng-repeat="book in books"
+                          type="item-text-wrap" href="#/tab/books/{{book.id}}">
+                    <img id="bookthumb" ng-src="images/tb_{{book.Cover}}">
+                    <h2 style="margin-top:12px">{{book.Title}}</h2>
+                    <i class="icon ion-chevron-right icon-accessory"></i>
+                </ion-item>
+            </div>
+            <div ng-if="author_books">
+                <ion-item class="item-remove-animate item-thumbnail-left item-icon-right"
+                          ng-repeat="book in books"
+                          type="item-text-wrap" href="#/tab/authors/book/{{book.id}}">
+                    <img id="bookthumb" ng-src="images/tb_{{book.Cover}}">
+                    <h2 style="margin-top:12px">{{book.Title}}</h2>
+                    <i class="icon ion-chevron-right icon-accessory"></i>
+                </ion-item>
+            </div>
+        </ion-list>
+    </ion-content>
+</ion-view>

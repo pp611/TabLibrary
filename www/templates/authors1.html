@@ -1,0 +1,14 @@
+<ion-view view-title="Authors">
+    <ion-content>
+        <ion-list>
+            <ion-item class="item-remove-animate item-avatar item-icon-right"
+                      collection-repeat="author in authors" item-height="60"
+                      type="item-text-wrap" href="#/tab/authors/{{author.id}}">
+                <img id="author-avatar" ng-src="images/{{author.avatar}}">
+                <h2>{{author.name}}</h2>
+                <p>{{author.bookCount}} Books</p>
+                <i class="icon ion-chevron-right icon-accessory"></i>
+            </ion-item>
+        </ion-list>
+    </ion-content>
+</ion-view>

@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Author</key>
+		<string>J.R.R. Tolkien</string>
+		<key>Avatar</key>
+		<string>jr_tolkien.jpg</string>
+		<key>Books</key>
+		<array>
+			<dict>
+				<key>Cover</key>
+				<string>the-hobbit.jpg</string>
+				<key>Title</key>
+				<string>The Hobbit</string>
+				<key>Year</key>
+				<string>1937</string>
+				<key>Desc</key>
+				<string>Bilbo Baggins is a hobbit who enjoys a comfortable, unambitious life, rarely traveling any farther than his pantry or cellar. But his contentment is disturbed when the wizard Gandalf and a company of dwarves arrive on his doorstep one day to whisk him away on an adventure. They have launched a plot to raid the treasure hoard guarded by Smaug the Magnificent, a large and very dangerous dragon. Bilbo reluctantly joins their quest, unaware that on his journey to the Lonely Mountain he will encounter both a magic ring and a frightening creature known as Gollum</string>
+			</dict>
+			<dict>
+				<key>Cover</key>
+				<string>fellowship.jpg</string>
+				<key>Title</key>
+				<string>The Fellowship of the Ring</string>
+				<key>Year</key>
+				<string>1954</string>
+				<key>Desc</key>
+				<string>In ancient times the Rings of Power were crafted by the Elven-smiths, and Sauron, the Dark Lord, forged the One Ring, filling it with his own power so that he could rule all others. But the One Ring was taken from him, and though he sought it throughout Middle-earth, it remained lost to him. After many ages it fell into the hands of Bilbo Baggins, as told in The Hobbit. In a sleepy village in the Shire, young Frodo Baggins finds himself faced with an immense task, as his elderly cousin Bilbo entrusts the Ring to his care. Frodo must leave his home and make a perilous journey across Middle-earth to the Cracks of Doom, there to destroy the Ring and foil the Dark Lord in his evil purpose</string>
+			</dict>
+			<dict>
+				<key>Cover</key>
+				<string>two-towers.jpg</string>
+				<key>Title</key>
+				<string>The Two Towers</string>
+				<key>Year</key>
+				<string>1954</string>
+				<key>Desc</key>
+				<string>Frodo and his Companions of the Ring have been beset by danger during their quest to prevent the Ruling Ring from falling into the hands of the Dark Lord by destroying it in the Cracks of Doom. They have lost the wizard, Gandalf, in a battle in the Mines of Moria. And Boromir, seduced by the power of the Ring, tried to seize it by force. While Frodo and Sam made their escape, the rest of the company was attacked by Orcs. Now they continue the journey alone down the great River Anduin—alone, that is, save for the mysterious creeping figure that follows wherever they go.</string>
+			</dict>
+			<dict>
+				<key>Cover</key>
+				<string>return-king.jpg</string>
+				<key>Title</key>
+				<string>The Return of the King</string>
+				<key>Year</key>
+				<string>1955</string>
+				<key>Desc</key>
+				<string>As the Shadow of Mordor grows across the land, the Companions of the Ring have become involved in separate adventures. Aragorn, revealed as the hidden heir of the ancient Kings of the West, has joined with the Riders of Rohan against the forces of Isengard, and takes part in the desperate victory of the Hornburg. Merry and Pippin, captured by Orcs, escape into Fangorn Forest and there encounter the Ents. Gandalf has miraculously returned and defeated the evil wizard, Saruman. Sam has left his master for dead after a battle with the giant spider, Shelob; but Frodo is still alive—now in the foul hands of the Orcs. And all the while the armies of the Dark Lord are massing as the One Ring draws ever nearer to the Cracks of Doom.</string>
+			</dict>
+			<dict>
+				<key>Cover</key>
+				<string>bilbo-song.png</string>
+				<key>Title</key>
+				<string>Bilbo&apos;s Last Song</string>
+				<key>Year</key>
+				<string>1966</string>
+				<key>Desc</key>
+				<string>Bilbo’s Last Song is considered by many to be Tolkien’s epilogue to his classic work The Lord of the Rings. As Bilbo Baggins takes his final voyage to the Undying Lands, he must say goodbye to Middle-earth. Poignant and lyrical, the song is both a longing to set forth on his ultimate journey and a tender farewell to friends left behind.</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>Author</key>
+		<string>Dan Brown</string>
+		<key>Avatar</key>
+		<string>dan_brown.jpg</string>
+		<key>Books</key>
+		<array>
+			<dict>
+				<key>Cover</key>
+				<string>digital-fortress.jpg</string>
+				<key>Title</key>
+				<string>Digital Fortress</string>
+				<key>Year</key>
+				<string>1998</string>
+				<key>Desc</key>
+				<string>When the NSA's invincible code-breaking machine encounters a mysterious code it cannot break, the agency calls its head cryptographer, Susan Fletcher, a brilliant, beautiful mathematician. What she uncovers sends shock waves through the corridors of power. The NSA is being held hostage--not by guns or bombs -- but by a code so complex that if released would cripple U.S. intelligence. Caught in an accelerating tempest of secrecy and lies, Fletcher battles to save the agency she believes in. Betrayed on all sides, she finds herself fighting not only for her country but for her life, and in the end, for the life of the man she loves.</string>
+			</dict>
+			<dict>
+				<key>Cover</key>
+				<string>angels-demons.jpg</string>
+				<key>Title</key>
+				<string>Angels and Demons</string>
+				<key>Year</key>
+				<string>2000</string>
+				<key>Desc</key>
+				<string>An ancient secret brotherhood. A devastating new weapon of destruction. An unthinkable target. When world-renowned Harvard symbologist Robert Langdon is summoned to his first assignment to a Swiss research facility to analyze a mysterious symbol -- seared into the chest of a murdered physicist -- he discovers evidence of the unimaginable: the resurgence of an ancient secret brotherhood known as the Illuminati...the most powerful underground organization ever to walk the earth. The Illuminati has now surfaced to carry out the final phase of its legendary vendetta against its most hated enemy -- the Catholic Church.</string>
+			</dict>
+			<dict>
+				<key>Cover</key>
+				<string>deception-point.jpg</string>
+				<key>Title</key>
+				<string>Deception Point</string>
+				<key>Year</key>
+				<string>2001</string>
+				<key>Desc</key>
+				<string>When a new NASA satellite spots evidence of an astonishingly rare object buried deep in the Arctic ice, the floundering space agency proclaims a much-needed victory...a victory that has profound implications for U.S. space policy and the impending presidential election. With the Oval Office in the balance, the President dispatches White House Intelligence analyst Rachel Sexton to the Milne Ice Shelf to verify the authenticity of the find. Accompanied by a team of experts, including the charismatic academic Michael Tolland, Rachel uncovers the unthinkable: evidence of scientific trickery -- a bold deception that threatens to plunge the world into controversy.</string>
+			</dict>
+			<dict>
+				<key>Cover</key>
+				<string>da-vinci-code.jpg</string>
+				<key>Title</key>
+				<string>The Da Vinci Code</string>
+				<key>Year</key>
+				<string>2003</string>
+				<key>Desc</key>
+				<string>A murder in the silent after-hour halls of the Louvre museum reveals a sinister plot to uncover a secret that has been protected by a clandestine society since the days of Christ. The victim is a high-ranking agent of this ancient society who, in the moments before his death, manages to leave gruesome clues at the scene that only his granddaughter, noted cryptographer Sophie Neveu, and Robert Langdon, a famed symbologist, can untangle. The duo become both suspects and detectives searching for not only Neveu's grandfather's murderer but also the stunning secret of the ages he was charged to protect. Mere steps ahead of the authorities and the deadly competition, the mystery leads Neveu and Langdon on a breathless flight through France, England, and history itself. Brown (Angels and Demons) has created a page-turning thriller that also provides an amazing interpretation of Western history. Brown's hero and heroine embark on a lofty and intriguing exploration of some of Western culture's greatest mysteries--from the nature of the Mona Lisa's smile to the secret of the Holy Grail. Though some will quibble with the veracity of Brown's conjectures, therein lies the fun. The Da Vinci Code is an enthralling read that provides rich food for thought. --Jeremy Pugh --This text refers to an out of print or unavailable edition of this title.</string>
+			</dict>
+			<dict>
+				<key>Cover</key>
+				<string>lost-symbol.jpg</string>
+				<key>Title</key>
+				<string>The Lost Symbol</string>
+				<key>Year</key>
+				<string>2009</string>
+				<key>Desc</key>
+				<string>Famed Harvard symbologist Robert Langdon answers an unexpected summons to appear at the U.S. Capitol Building. His planned lecture is interrupted when a disturbing object—artfully encoded with five symbols—is discovered in the building. Langdon recognizes in the find an ancient invitation into a lost world of esoteric, potentially dangerous wisdom. When his mentor Peter Solomon—a longstanding Mason and beloved philanthropist—is kidnapped, Langdon realizes that the only way to save Solomon is to accept the mystical invitation and plunge headlong into a clandestine world of Masonic secrets, hidden history, and one inconceivable truth . . . all under the watchful eye of Dan Brown's most terrifying villain to date. Set within the hidden chambers, tunnels, and temples of Washington, D.C., The Lost Symbol is an intelligent, lightning-paced story with surprises at every turn--Brown's most exciting novel yet.</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>Author</key>
+		<string>J.K. Rowling</string>
+		<key>Avatar</key>
+		<string>jk_rowling.jpg</string>
+		<key>Books</key>
+		<array>
+			<dict>
+				<key>Cover</key>
+				<string>stone.jpg</string>
+				<key>Title</key>
+				<string>Harry Potter and the Philosopher&apos;s Stone</string>
+				<key>Year</key>
+				<key>Desc</key>
+				<string>Harry Potter has no idea how famous he is. That's because he's being raised by his miserable aunt and uncle who are terrified Harry will learn that he's really a wizard, just as his parents were. But everything changes when Harry is summoned to attend an infamous school for wizards, and he begins to discover some clues about his illustrious birthright. From the surprising way he is greeted by a lovable giant, to the unique curriculum and colorful faculty at his unusual school, Harry finds himself drawn deep inside a mystical world he never knew existed and closer to his own noble destiny.</string>
+				<string>1997</string>
+			</dict>
+			<dict>
+				<key>Cover</key>
+				<string>chamber.jpg</string>
+				<key>Title</key>
+				<string>Harry Potter and the Chamber of Secrets</string>
+				<key>Year</key>
+				<string>1998</string>
+				<key>Desc</key>
+				<string>The Dursleys were so mean that hideous that summer that all Harry Potter wanted was to get back to the Hogwarts School for Witchcraft and Wizardry. But just as he's packing his bags, Harry receives a warning from a strange, impish creature named Dobby who says that if Harry Potter returns to Hogwarts, disaster will strike.</string>
+			</dict>
+			<dict>
+				<key>Cover</key>
+				<string>azkaban.jpg</string>
+				<key>Title</key>
+				<string>Harry Potter and the Prisoner of Azkaban</string>
+				<key>Year</key>
+				<string>1999</string>
+				<key>Desc</key>
+				<string>For twelve long years, the dread fortress of Azkaban held an infamous prisoner named Sirius Black. Convicted of killing thirteen people with a single curse, he was said to be the heir apparent to the Dark Lord, Voldemort.</string>
+			</dict>
+			<dict>
+				<key>Cover</key>
+				<string>goblet.jpg</string>
+				<key>Title</key>
+				<string>Harry Potter and the Goblet of Fire</string>
+				<key>Year</key>
+				<string>2000</string>
+				<key>Desc</key>
+				<string>Harry Potter is midway through his training as a wizard and his coming of age. Harry wants to get away from the pernicious Dursleys and go to the International Quidditch Cup. He wants to find out about the mysterious event that's supposed to take place at Hogwarts this year, an event involving two other rival schools of magic, and a competition that hasn't happened for a hundred years. He wants to be a normal, fourteen-year-old wizard. But unfortunately for Harry Potter, he's not normal - even by wizarding standards. And in his case, different can be deadly.</string>
+			</dict>
+			<dict>
+				<key>Cover</key>
+				<string>phoenix.jpg</string>
+				<key>Title</key>
+				<string>Harry Potter and the Order of the Phoenix</string>
+				<key>Year</key>
+				<string>2003</string>
+				<key>Desc</key>
+				<string>n his fifth year at Hogwart's, Harry faces challenges at every turn, from the dark threat of He-Who-Must-Not-Be-Named and the unreliability of the government of the magical world to the rise of Ron Weasley as the keeper of the Gryffindor Quidditch Team. Along the way he learns about the strength of his friends, the fierceness of his enemies, and the meaning of sacrifice.</string>
+			</dict>
+			<dict>
+				<key>Cover</key>
+				<string>prince.jpg</string>
+				<key>Title</key>
+				<string>Harry Potter and the Half Blood Prince</string>
+				<key>Year</key>
+				<string>2005</string>
+				<key>Desc</key>
+				<string>The war against Voldemort is not going well; even the Muggles have been affected. Dumbledore is absent from Hogwarts for long stretches of time, and the Order of the Phoenix has already suffered losses. </string>
+			</dict>
+			<dict>
+				<key>Cover</key>
+				<string>hallows.jpg</string>
+				<key>Title</key>
+				<string>Harry Potter and the Deathly Hallows</string>
+				<key>Year</key>
+				<string>2007</string>
+				<key>Desc</key>
+				<string>Readers beware. The brilliant, breathtaking conclusion to J.K. Rowling's spellbinding series is not for the faint of heart--such revelations, battles, and betrayals await in Harry Potter and the Deathly Hallows that no fan will make it to the end unscathed. Luckily, Rowling has prepped loyal readers for the end of her series by doling out increasingly dark and dangerous tales of magic and mystery, shot through with lessons about honor and contempt, love and loss, and right and wrong. Fear not, you will find no spoilers in our review--to tell the plot would ruin the journey, and Harry Potter and the Deathly Hallows is an odyssey the likes of which Rowling's fans have not yet seen, and are not likely to forget. But we would be remiss if we did not offer one small suggestion before you embark on your final adventure with Harry--bring plenty of tissues.</string>
+			</dict>
+			<dict>
+				<key>Cover</key>
+				<string>bard.jpg</string>
+				<key>Title</key>
+				<string>The Tales of Beedle the Bard</string>
+				<key>Year</key>
+				<string>2008</string>
+				<key>Desc</key>
+				<string>The Tales of Beedle the Bard, a Wizarding classic, first came to Muggle readers' attention in the book known as Harry Potter and the Deathly Hallows. Now, thanks to Hermione Granger's new translation from the ancient runes, we present this stunning edition with an introduction, notes, and illustrations by J. K. Rowling, and extensive commentary by Albus Dumbledore.</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>Author</key>
+		<string>Robin Cook</string>
+        <key>Avatar</key>
+		<string>robin_cook.jpg</string>
+        <key>Books</key>
+		<array>
+			<dict>
+				<key>Cover</key>
+				<string>sphinx.jpg</string>
+				<key>Title</key>
+				<string>Sphinx</string>
+				<key>Year</key>
+				<string>1979</string>
+				<key>Desc</key>
+				<string>It was the magic and mystery of an empire long past that beautiful Erica Baron came to explore. Innocently she cast her eyes in forbidden places and discovered the clue to a treasure beyond imagination. It was then that terror overtook her, as the most fearful curse of the ancient world and the most savage menace of the modern one threatened to detroy her. One dangerously attractive man offered Erica help...he offered her protection...he offered her love. And in this strange, exotic land of seductive evils, where no one could be trusted, desire became for Erica the deadliest snare of all...</string>
+			</dict>
+			<dict>
+				<key>Cover</key>
+				<string>brain.jpg</string>
+				<key>Title</key>
+				<string>Brain</string>
+				<key>Year</key>
+				<string>1981</string>
+				<key>Desc</key>
+				<string>Both of them suspected that something was wrong--terribly wrong--in the great medical research center where they worked. Both of them wondered why a beautiful young woman had died on the operating table and her brain secretly removed. Both of them found it impossible to explain the rash of female patients exhibiting bizarre mental breakdowns and shocking behavior. Both of them were placing their careers and very lives in deadly jeopardy as they penetrated the eerie inner sanctums of a medical world gone mad with technological power and the lust for more...</string>
+			</dict>
+			<dict>
+				<key>Cover</key>
+				<string>fever.jpg</string>
+				<key>Title</key>
+				<string>Fever</string>
+				<key>Year</key>
+				<string>1982</string>
+				<key>Desc</key>
+				<string>Charles Martel is a brilliant cancer researcher who discovers that his own daughter is the victim of leukemia. The cause: a chemical plant conspiracy that not only promises to kill her, but will destroy him as a doctor and a man if he tries to fight it...</string>
+			</dict>
+			<dict>
+				<key>Cover</key>
+				<string>blindsight.png</string>
+				<key>Title</key>
+				<string>Blindsight</string>
+				<key>Year</key>
+				<string>1992</string>
+				<key>Desc</key>
+				<string>Robin Cook is back—with a shocking story of medical conspiracy. Today, organ transplants are common miracles of science. But if the supply cannot meet the demand, how far will people go to find donors? Dr. Laurie Montgomery, a forensic pathologist, learns the terrifying answer when she investigates a series of fatal "overdose" of young professionals. Some crimes are beyond comprehension. But seeing is believing...</string>
+			</dict>
+			<dict>
+				<key>Cover</key>
+				<string>fatal-cure.jpg</string>
+				<key>Title</key>
+				<string>Fatal Cure</string>
+				<key>Year</key>
+				<string>1994</string>
+				<key>Desc</key>
+				<string>From the undisputed master of the medical thriller comes a trio of terrifying tales, filled with Dr. Robin Cook's signature cutting-edge suspense and bold strokes of reality. The consequences of managed health care in an age when even the wariest consumer may be at risk is the catalyst for Contagion, while a sinister cabal involved with unacceptable medical ethics provides the nerve-jangling backdrop for Chromosome 6. Invasion, published in hardcover for the first time, preys on our deepest fears as it explores a sudden outbreak of a disease unlike anything humankind has ever seen.</string>
+			</dict>
+			<dict>
+				<key>Cover</key>
+				<string>invasion.jpg</string>
+				<key>Title</key>
+				<string>Invasion</string>
+				<key>Year</key>
+				<string>1997</string>
+				<key>Desc</key>
+				<string>Robin Cook's "pressure cooker of a thriller" (Booklist) takes medical technology into a new realm, where everything we know about the human body-and the universe we live in-is about to be challenged.</string>
+			</dict>
+			<dict>
+				<key>Cover</key>
+				<string>shock.jpg</string>
+				<key>Title</key>
+				<string>Shock</string>
+				<key>Year</key>
+				<string>2001</string>
+				<key>Desc</key>
+				<string>Two graduate students decide to solve their financial problems by becoming egg donors at an exclusive, highly profitable fertility clinic on Boston’s North Shore. But second thoughts and curiosity prompt the two women to find out more about their donated eggs. Obtaining employment at the clinic under aliases, they soon discover the horrifying aims of its research, immediately putting their lives—and their sanity—irrevocably at risk…</string>
+			</dict>
+			<dict>
+				<key>Cover</key>
+				<string>intervention.jpg</string>
+				<key>Title</key>
+				<string>Intervention</string>
+				<key>Year</key>
+				<string>2009</string>
+				<key>Desc</key>
+				<string>Bestselling author Robin Cook returns with another ripped-from-the- headlines thriller, as New York City medical detective Jack Stapleton investigates the promises-and deadly risks-of alternative medicine and is led deep into the heart of a religious conspiracy...</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
